@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Golden Sun Djinndex</string>
+
+    <string name="djinn_name">Nama Djinn</string>
+    <string name="description">Deskripsi</string>
+    <string name="List">List</string>
+    <string name="Grid">Grid</string>
+    <string name="location">Location</string>
+    <string name="about">About</string>
+    <string name="Email">pergerakanpertama@gmail.com</string>
+    <string name="Nama">Achmad Rionov</string>
+
+    <string-array name="data_name">
+        <item>Flint</item>
+        <item>Forge</item>
+        <item>Chill</item>
+        <item>Gust</item>
+        <item>Fever</item>
+        <item>Flower</item>
+        <item>Jolt</item>
+        <item>Sleet</item>
+        <item>Cinder</item>
+        <item>Ether</item>
+        <item>Bark</item>
+        <item>Steel</item>
+        <item>Breath</item>
+        <item>Surge</item>
+        <item>Mist</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>This spirit was Isaac\'s very first Djinni. Flint talks a great deal, but is both knowledgeable and nice, so no one complains.</item>
+        <item>This bolstering spirit is encountered at Patcher\'s Place. Forge\'s blazing flame stirs allies to greater ferocity in battle.</item>
+        <item>This spirit of intense cold is found at Carver\'s Camp. Chill\'s attack renders enemies brittle and vulnerable.</item>
+        <item>This fleet spirit is first encountered at the Goma Highlands Road. Gust\'s tremendous speed always gets the jump on an enemy.</item>
+        <item>This spirit of dreams and hallucinations is found near Konpa Gate. Fever\'s power overheats a foe\'s brain, causing delusional thinking.</item>
+        <item>This flower spirit is found by the gate to the Konpa ruins. Flower\'s sweet scent has a refreshing and healing effect.</item>
+        <item>This lightning spirit is first encountered at the Konpa ruins. Jolt generates a shock that can bring an unconscious ally around again.</item>
+        <item>This spirit of crystallized ice joins the party with Rief. Sleet\'s attack wraps enemies in blinding cold, making fighting more difficult.</item>
+        <item>This spirit of fire\'s last remnants is first met in Harapa. Cinder can ignite vigor in an unconscious ally through sheer determination.</item>
+        <item>This spirit embodies the winds at the highest altitudes and is found in western Kaocho. Allies find Ether\'s presence calming, even in the midst of battle.</item>
+        <item>This tough spirit is first met on the Passaj Mountain Climb. Bark\'s rough hide can protect allies like a shield.</item>
+        <item>This love spirit is first found in Kaocho. Steel\'s attack is a vitality-stealing kiss that leaves enemies wanting more.</item>
+        <item>This spirit embodies living breath and is found in Ayuthay. Breath specializes in healing allies in the nick of time.</item>
+        <item>This geyser spirit joins the party in Barai Temple. Surge can conjure a hot-spring effect that relieves fatigue for allies.</item>
+        <item>This spirit has influence over sleep and joins your party along with Amiti. Mist\'s attack enshrouds a foe\'s mind, making it ready for sleep.</item>
+    </string-array>
+
+    <string-array name="data_tagline">
+        <item>\"Strike a blow that can cleave stone.\"</item>
+        <item>\"Boost party Attack with flame\'s fury.\"</item>
+        <item>\"Shatter a foe\'s defense with numbing cold.\"</item>
+        <item>\"Buffet foe (perhaps twice) with gale force.\"</item>
+        <item>\"Damage and delude a foe with a heat haze.\"</item>
+        <item>\"Refresh allies and restore HP.\"</item>
+        <item>\"May revive a downed ally with sharp shocks\"</item>
+        <item>\"Slash a foe with ice to reduce its Attack.\"</item>
+        <item>\"Usually revives downed ally with life embers.\"</item>
+        <item>\"Focus will to restore PP.\"</item>
+        <item>\"Create a protective barrier against attacks.\"</item>
+        <item>\"Attack and siphon a foe\'s HP with a kiss.\"</item>
+        <item>\"Restore an ally\'s HP before others can act.\"</item>
+        <item>\"Restore party HP with a stream of life.\"</item>
+        <item>\"Attack and lull a foe into deep sleep.\"</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Found on the Overworld as soon as you take your first few steps forward. The group thinks that it\'s a good chance to capture it, but Flint responds that it isn\'t necessary -- Isaac was worried so he sent Flint to be with you.</item>
+        <item>At Patcher\'s Place, run up to the higher levels of the store until you are outside. Climb up the cliff to the left of the Djinni to reach the Psynergy Training Grounds. Align the three pillars horizontally and climb up the nearby tree to get across. Hop on top of the tree to the right, climb down, and use Growth on the sapling to climb down.</item>
+        <item>Found at Carver\'s Camp and can be obtained as soon as you visit it for the first time. In the southeastern part of the area, there\'s a tree beside a villager you can hop on. Climb down, use Growth, and you\'ll reach the Djinni.</item>
+        <item>Complete Goma Highlands Road and enter Carver\'s Camp. In the northwest area, go around the house and use Move on the pillar twice to bring it down to act as a bridge back to the west. Use Fireball on the nearby cart, hop in, and use Fireball to go. Head up to meet with the Djinni.</item>
+        <item>South of the east exit of the Lumber Yard on the World Map.</item>
+        <item>Found at Konpa Gate. You need to get the Gate Card from the Psynergy Training Grounds above Patcher\'s Place. When you get through, climb up to the higher level and jump on the tree. When the Djinni sees you and hides, use Whirlwind to reveal it.</item>
+        <item>At the top of Konpa Ruins, where you\'ll see this Djinni watching from above. Enter the room below it and solve the puzzle to earn the Grip Crystal. Outside, use Grip to get closer to the Djinni. After it goes up, go around counter-clockwise to chase it back to the pole. Go clockwise and use Grip on the pole behind it to crash into it.</item>
+        <item>Rief has this Djinni when he joins your party.</item>
+        <item>Upon entering Harapa, go into the Sanctum in the upper right corner of the town. It is the white sparkle icon indicated in the upper map. Once inside, go up the staircase and through the door to end up outside again. Use Rief\'s Douse on the flame slightly northwest, hop over, and continue upwards into the Harapa Ruins.</item>
+        <item>In the forested area between the Passaj Mountain Climb and Kaocho.</item>
+        <item>When you first see it in the Passaj Mountain Climb ignore it and go left to find green Zol. Use Whirlwind on it and use it to move on. To solve the small puzzle, slide the Zol right. Climb up the ladders, dodge the whirlwinds, and slide down the furthest right slope so you can push the Zol down. Slide it to the right to create the path.</item>
+        <item>Enter the palace area of Kaocho. At around the middle part of the staircase, use Grip and pull yourself to the left flag pole. Go down the ladder, and head down with the river by your side to the town part of Kaocho. Steel is just a lily pad away.</item>
+        <item>After the event at the Alchemy Well causes the water to recede, use the south exit of the hidden Ayuthay city until you\'re outside. Stand on the raft to the left and use Whirlwind to push you down and right. Get off and hop on the next raft. Go down, left, up, right, and get off here. Hop on the lily pads to the right and climb up that ladder.\n\n If you missed the Djinni, returned at a later point, and the water level is up, ask the man at the entrance to take you across. Use the raft nearby and go right, then hop on the lily pads to get to where you need to be</item>
+        <item>In Barai Temple. Be nearby and use Fireball on the Djinni to make it move. Use Arid Heat on the bowl if there\'s water in it so you can climb down to it.</item>
+        <item>Amiti has this Djinni when he joins your party.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/flint1</item>
+        <item>@drawable/forge1</item>
+        <item>@drawable/chill1</item>
+        <item>@drawable/gust1</item>
+        <item>@drawable/fever1</item>
+        <item>@drawable/flower1</item>
+        <item>@drawable/jolt1</item>
+        <item>@drawable/sleet1</item>
+        <item>@drawable/cinder1</item>
+        <item>@drawable/ether1</item>
+        <item>@drawable/bark1</item>
+        <item>@drawable/steel1</item>
+        <item>@drawable/breath1</item>
+        <item>@drawable/surge1</item>
+        <item>@drawable/mist1</item>
+    </integer-array>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="share">Share</string>
+
+</resources>
