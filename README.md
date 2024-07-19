@@ -23,3 +23,9 @@ This project is a showcase of my understanding of basic Android Development, spe
 - **[XML](https://developer.android.com/guide/topics/ui/declaring-layout)** - Used for defining user interfaces.
 
 Click [here](https://drive.google.com/file/d/1mXDd7_-nHlgj_LsXrvktOVeSvBVvahlI/view?usp=sharing) to download the app (APK).
+
+## Screenshots
+[1](https://drive.google.com/file/d/1tsE0pYOtcC6jKzfcydJ9u1sUL-aduL2u/view?usp=drive_link)
+[2](https://drive.google.com/file/d/1AX0vuhB9wKBWs6fR_bVZjuMVawjwoNBZ/view?usp=drive_link)
+[3](https://drive.google.com/file/d/12q-qTretfuEMXFxvGmgaRAo2OaA-scrM/view?usp=drive_link)
+[4](https://drive.google.com/file/d/1C-HH6Whz_mDiWBWpbeeyKByl78NjxDPB/view?usp=drive_link)
