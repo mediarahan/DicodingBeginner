@@ -22,4 +22,4 @@ This project is a showcase of my understanding of basic Android Development, spe
 - **[Android Studio](https://developer.android.com/studio)** - Official IDE for Android.
 - **[XML](https://developer.android.com/guide/topics/ui/declaring-layout)** - Used for defining user interfaces.
 
-Click [here](https://drive.google.com/file/d/1mXDd7_-nHlgj_LsXrvktOVeSvBVvahlI/view?usp=drive_link) to download the app (APK).
+Click [here](https://drive.google.com/file/d/1mXDd7_-nHlgj_LsXrvktOVeSvBVvahlI/view?usp=sharing) to download the app (APK).
