@@ -25,7 +25,7 @@ This project is a showcase of my understanding of basic Android Development, spe
 Click [here](https://drive.google.com/file/d/1mXDd7_-nHlgj_LsXrvktOVeSvBVvahlI/view?usp=sharing) to download the app (APK).
 
 ## Screenshots
-![1](https://drive.google.com/file/d/1tsE0pYOtcC6jKzfcydJ9u1sUL-aduL2u/view?usp=drive_link)
-![2](https://drive.google.com/file/d/1AX0vuhB9wKBWs6fR_bVZjuMVawjwoNBZ/view?usp=drive_link)
-![3](https://drive.google.com/file/d/12q-qTretfuEMXFxvGmgaRAo2OaA-scrM/view?usp=drive_link)
-![4](https://drive.google.com/file/d/1C-HH6Whz_mDiWBWpbeeyKByl78NjxDPB/view?usp=drive_link)
+![beginner1](https://github.com/user-attachments/assets/2b8f2314-3f08-48cc-9afa-76c15521ec2c)
+![beginner2](https://github.com/user-attachments/assets/4f692134-fbb6-4785-aa2a-e4fe6435169e)
+![beginner3](https://github.com/user-attachments/assets/687b9572-aaaa-4c7a-b8bc-9f7b0d648a09)
+![beginner4](https://github.com/user-attachments/assets/c283b371-3686-4786-aa8b-6431e8ac9746)
